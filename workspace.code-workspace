@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\a_random_quote_generator-v1 (1)\\css"
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\a_random_quote_generator-v1 (1)\\js"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "techdegree-project-1"
+	}
+}
